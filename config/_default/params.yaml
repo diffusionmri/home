@@ -18,10 +18,10 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Professor at School of Computer Science and Engineering Nanjing University of Science and Technology.'
+    twitter: 'wuye4567'
   analytics:
-    google_analytics: ''
+    google_analytics: 'UA-123249487-1'
     baidu_tongji: ''
   verification:
     google: ''
@@ -66,11 +66,11 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/diffusionmri/home'
     content_dir: content
     branch: master
   avatar:

@@ -1,26 +1,28 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ye Wu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor of Computational Neuroscience
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Nanjing University of Science and Technology
+    url: https://www.njust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research mainly focuses on the methodologies in Computational neuroimaging on diffusion MRI. He is interested in Quantitative imaging, Tractography-based Parcellation, Microstructure imaging, and Machine learning. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Neuroscience
+  - Connectome
+  - Neuroimaging
+  - Diffusion MRI
+
 
 # Education to show in About widget
 education:
