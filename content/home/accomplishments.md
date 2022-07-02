@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.ismrm.org/
     date_end: ''
-    date_start: '2021-06'
+    date_start: '2021-06-01'
     description: ''
     organization: International Society for Magnetic Resonance in Medicine 
     organization_url: https://www.ismrm.org/
@@ -33,7 +33,7 @@ item:
     url: ''
   - certificate_url: https://www.humanbrainmapping.org/
     date_end: ''
-    date_start: '2021-05'
+    date_start: '2021-05-01'
     description: Formulated informed blockchain models, hypotheses, and use cases.
     organization: Organization for Human Brain Mapping 
     organization_url: https://www.humanbrainmapping.org/
@@ -41,7 +41,7 @@ item:
     url: ''
   - certificate_url: https://cy.ncss.cn/
     date_end: ''
-    date_start: '2020-10'
+    date_start: '2020-10-01'
     description: ''
     organization: China International College Students 'Internet+' Innovation and Entrepreneurship Competition
     organization_url: https://cy.ncss.cn/
@@ -49,7 +49,7 @@ item:
     url: ''
   - certificate_url: http://www.miccai.org/
     date_end: ''
-    date_start: '2020-09'
+    date_start: '2020-09-01'
     description: ''
     organization: International Conference on Medical Image Computing and Computer-Assisted Intervention
     organization_url: http://www.miccai.org/
@@ -57,7 +57,7 @@ item:
     url: ''
   - certificate_url: https://www.journals.elsevier.com/medical-image-analysis
     date_end: ''
-    date_start: '2019-10'
+    date_start: '2019-10-01'
     description: ''
     organization: Medical Image Analysis
     organization_url: https://www.journals.elsevier.com/medical-image-analysis
@@ -65,7 +65,7 @@ item:
     url: ''
   - certificate_url: http://www.miccai.org/
     date_end: ''
-    date_start: '2018-09'
+    date_start: '2018-09-01'
     description: ''
     organization: International Conference on Medical Image Computing and Computer-Assisted Intervention
     organization_url: http://www.miccai.org/
