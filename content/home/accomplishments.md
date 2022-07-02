@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.ismrm.org/
+  - certificate_url: ''
     date_end: ''
     date_start: '2021-06-01'
     description: ''
@@ -31,15 +31,15 @@ item:
     organization_url: https://www.ismrm.org/
     title: Summa Cum Laude Award
     url: ''
-  - certificate_url: https://www.humanbrainmapping.org/
+  - certificate_url: ''
     date_end: ''
     date_start: '2021-05-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
+    description: 
     organization: Organization for Human Brain Mapping 
     organization_url: https://www.humanbrainmapping.org/
     title: Merit Abstract Award
     url: ''
-  - certificate_url: https://cy.ncss.cn/
+  - certificate_url: ''
     date_end: ''
     date_start: '2020-10-01'
     description: ''
@@ -47,7 +47,7 @@ item:
     organization_url: https://cy.ncss.cn/
     title: 'National gold medal award'
     url: ''
-  - certificate_url: http://www.miccai.org/
+  - certificate_url: ''
     date_end: ''
     date_start: '2020-09-01'
     description: ''
@@ -55,7 +55,7 @@ item:
     organization_url: http://www.miccai.org/
     title: 'NIH Award'
     url: ''
-  - certificate_url: https://www.journals.elsevier.com/medical-image-analysis
+  - certificate_url: ''
     date_end: ''
     date_start: '2019-10-01'
     description: ''
@@ -63,7 +63,7 @@ item:
     organization_url: https://www.journals.elsevier.com/medical-image-analysis
     title: 'Best Paper Award (Runner-up)'
     url: ''
-  - certificate_url: http://www.miccai.org/
+  - certificate_url: ''
     date_end: ''
     date_start: '2018-09-01'
     description: ''

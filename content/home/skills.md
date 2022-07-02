@@ -18,11 +18,11 @@ subtitle:
 feature:
   - description: Love
     icon: display-code
-    icon_pack: fas
+    icon_pack: fab
     name: Matlab/Python
   - description: Proficient
     icon: rectangle-terminal
-    icon_pack: fas
+    icon_pack: fab
     name: Shell/Latex
   - description: Skillful
     icon: chart-line
