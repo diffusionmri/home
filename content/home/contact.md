@@ -25,28 +25,28 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: wuye@njust.edu.cn
+  phone: 133-289-19503
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: 200 Xiaolingwei Street
+    city: Nanjing
+    region: Jiangsu
+    postcode: '210094'
+    country: China
+    country_code: CN
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: Enter CS Building and take the stairs to Office 4048 on Floor 4
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    - 'Monday - Friday 08:30 to 22:00'
+    - 'Saturday - Sunday 09:00 to 18:00'
+  appointment_url: 'https://calendly.com/wuye'
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
+      name: @wuye4567
+      link: 'https://twitter.com/wuye4567'
     - icon: video
       icon_pack: fas
       name: Zoom Me

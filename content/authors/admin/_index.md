@@ -6,7 +6,7 @@ title: Ye Wu
 superuser: true
 
 # Role/position/tagline
-role: Professor of Computational Neuroscience
+role: Professor of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,7 +19,7 @@ bio: My research mainly focuses on the methodologies in Computational neuroimagi
 # Interests to show in About widget
 interests:
   - Computational Neuroscience
-  - Connectome
+  - Human Brain Connectome
   - Neuroimaging
   - Diffusion MRI
 
@@ -27,15 +27,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Postdoctoral Researcher
+      institution: University of North Carolina at Chapel Hill, NC, USA
+      year: Dec 2018 - Jan 2022
+    - course: Research Assitant
+      institution: University of North Carolina at Chapel Hill, NC, USA
+      year: Nov 2017 - Dec 2018
+    - course: Visiting Scholar
+      institution: Harvard Medical School, MA, USA
+      year: Nov 2016 - Nov 2017
+    - course: PhD in Computational Neuroimaging
+      institution: Zhejiang University of Technology, Hangzhou, China
+      year: Sep 2012 - Dec 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,19 +47,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:wuye@njust.edu.cn
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/wuye4567
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=soMcNA8AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/diffusionmri
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/wuye1989/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -72,8 +75,6 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research mainly focuses on the methodologies in Computational neuroimaging on diffusion MRI. He is interested in Quantitative imaging, Tractography-based Parcellation, Microstructure imaging, and Machine learning. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
