@@ -39,12 +39,12 @@ item:
     organization_url: https://www.humanbrainmapping.org/
     title: Merit Abstract Award
     url: ''
-  - certificate_url: https://www.datacamp.com
+  - certificate_url: https://cy.ncss.cn/
     date_end: ''
     date_start: '2020-10'
     description: ''
     organization: China International College Students 'Internet+' Innovation and Entrepreneurship Competition
-    organization_url: https://www.datacamp.com
+    organization_url: https://cy.ncss.cn/
     title: 'National gold medal award'
     url: ''
   - certificate_url: http://www.miccai.org/
