@@ -14,7 +14,7 @@ organizations:
     url: https://www.njust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research mainly focuses on the methodologies in Computational neuroimaging on diffusion MRI. He is interested in Quantitative imaging, Tractography-based Parcellation, Microstructure imaging, and Machine learning. 
+bio: My research mainly focuses on the methodologies in Computational neuroimaging on diffusion MRI. I’m a poet and a big fan of Vincent Fang and Albert Leung, a badminton enthusiast and a big fan of badminton by Chong-Wei Lee and Dan Lin, a dad/son/husband. 
 
 # Interests to show in About widget
 interests:
@@ -29,16 +29,16 @@ education:
   courses:
     - course: Postdoctoral Researcher
       institution: University of North Carolina at Chapel Hill, NC, USA
-      year: Dec 2018 - Jan 2022
+      year: 2018.12 - 2022.01
     - course: Research Assitant
       institution: University of North Carolina at Chapel Hill, NC, USA
-      year: Nov 2017 - Dec 2018
+      year: 2017.11 - 2018.11
     - course: Visiting Scholar
       institution: Harvard Medical School, MA, USA
-      year: Nov 2016 - Nov 2017
+      year: 2016.11 - 2017.11
     - course: PhD in Computational Neuroimaging
       institution: Zhejiang University of Technology, Hangzhou, China
-      year: Sep 2012 - Dec 2018
+      year: 2012.09 - 2018.12
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -75,6 +75,8 @@ email: ''
 highlight_name: true
 ---
 
-My research mainly focuses on the methodologies in Computational neuroimaging on diffusion MRI. He is interested in Quantitative imaging, Tractography-based Parcellation, Microstructure imaging, and Machine learning. 
+My research mainly focuses on the methodologies in Computational neuroimaging on diffusion MRI. I’m a poet and a big fan of Vincent Fang and Albert Leung, a badminton enthusiast and a big fan of badminton by Chong-Wei Lee and Dan Lin, a dad/son/husband. 
+
+*** We are looking for postdoctoral and postgraduate to work with us! Come join us at NJUST in the world's happiest city, Nanjing, if you are interested in computational neuroscience, especially neuroimaging. ***
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -16,22 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
-    icon: desktop
-    icon_pack: fab
-    name: Matlab
-  - description: 100%
-    icon: python
+  - description: Love
+    icon: display-code
     icon_pack: fas
-    name: Python
-  - description: 10%
-    icon: overleaf
-    icon_pack: ai
-    name: Latex
-  - description: 10%
+    name: Matlab/Python
+  - description: Proficient
+    icon: rectangle-terminal
+    icon_pack: fas
+    name: Shell/Latex
+  - description: Skillful
     icon: chart-line
     icon_pack: fas
-    name: Statistical
+    name: Mathematics/Statistics
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
