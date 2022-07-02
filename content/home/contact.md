@@ -45,7 +45,7 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: @wuye4567
+      name: wuye4567
       link: 'https://twitter.com/wuye4567'
     - icon: video
       icon_pack: fas
