@@ -23,29 +23,53 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://www.ismrm.org/
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2021-06'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization: International Society for Magnetic Resonance in Medicine 
+    organization_url: https://www.ismrm.org/
+    title: Summa Cum Laude Award
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://www.humanbrainmapping.org/
     date_end: ''
-    date_start: '2021-01-01'
+    date_start: '2021-05'
     description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    organization: Organization for Human Brain Mapping 
+    organization_url: https://www.humanbrainmapping.org/
+    title: Merit Abstract Award
+    url: ''
   - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_end: ''
+    date_start: '2020-10'
     description: ''
-    organization: DataCamp
+    organization: China International College Students 'Internet+' Innovation and Entrepreneurship Competition
     organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    title: 'National gold medal award'
+    url: ''
+  - certificate_url: http://www.miccai.org/
+    date_end: ''
+    date_start: '2020-09'
+    description: ''
+    organization: International Conference on Medical Image Computing and Computer-Assisted Intervention
+    organization_url: http://www.miccai.org/
+    title: 'NIH Award'
+    url: ''
+  - certificate_url: https://www.journals.elsevier.com/medical-image-analysis
+    date_end: ''
+    date_start: '2019-10'
+    description: ''
+    organization: Medical Image Analysis
+    organization_url: https://www.journals.elsevier.com/medical-image-analysis
+    title: 'Best Paper Award (Runner-up)'
+    url: ''
+  - certificate_url: http://www.miccai.org/
+    date_end: ''
+    date_start: '2018-09'
+    description: ''
+    organization: International Conference on Medical Image Computing and Computer-Assisted Intervention
+    organization_url: http://www.miccai.org/
+    title: 'Student Travel Award'
     url: ''
 
 design:
